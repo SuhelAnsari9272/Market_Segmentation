@@ -1,5 +1,7 @@
 pandas
 numpy
 seaborn
-matplotlib 
--e .
+matplotlib
+sklearn.preprocessing 
+sklearn.decomposition 
+#-e .
